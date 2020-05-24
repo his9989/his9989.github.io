@@ -12,14 +12,14 @@
 
 theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Hello World"
+title                    : "Han DevBlog"
 title_separator          : "-"
 name                     : "InSoo Han"
-description              : "처음부터 차근차근"
+description              : "Focusing"
 url                      : "https://his9989.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "InSoo Han"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "처음부터 차근차근"
+  bio              : "Focusing"
   location         : "Seoul"
   email            : "his9989@naver.com"
   links:
