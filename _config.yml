@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Han DevBlog"
+title                    : "Han's DevBlog"
 title_separator          : "-"
 name                     : "InSoo Han"
 description              : "Han's Portfolio"
